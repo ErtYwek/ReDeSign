@@ -1,5 +1,5 @@
 So thats it
 and how it looks
+=============
 
-
-![pixi.js logo](https://raw.githubusercontent.com/ErtYwek/ReDeSign/master/Resources/ErtYdesign.png)
+![imgur](https://i.imgur.com/4bbf5O5.png)
