@@ -1,4 +1,3 @@
 So thats it
-
-
-![alt](https://raw.githubusercontent.com/ErtYwek/ReDeSign/master/Resources/ErtYdesign.png)
+and how it looks
+![Image](https://raw.githubusercontent.com/ErtYwek/ReDeSign/master/Resources/ErtYdesign.pngand how it looks)
