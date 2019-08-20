@@ -1,4 +1,4 @@
 So thats it
 
 
-<img href="https://git.pl/r.png">
+![alt this should be smthing like a screenshot](https://raw.githubusercontent.com/ErtYwek/ReDeSign/master/Resources/ErtYdesign.png)
