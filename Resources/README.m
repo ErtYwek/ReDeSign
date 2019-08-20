@@ -1,4 +1,5 @@
 So thats it
 and how it looks
-https://raw.githubusercontent.com/ErtYwek/ReDeSign/master/Resources/ErtYdesign.png
 
+
+![pixi.js logo](https://raw.githubusercontent.com/ErtYwek/ReDeSign/master/Resources/ErtYdesign.png)
